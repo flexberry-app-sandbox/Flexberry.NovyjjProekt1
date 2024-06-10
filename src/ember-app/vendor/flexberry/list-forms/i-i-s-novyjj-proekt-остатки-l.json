@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-novyjj-proekt-остатки-e",
+  "editForm": "i-i-s-novyjj-proekt-остатки-e",
+  "external": false,
+  "caption": "Остатки",
+  "name": "IISNovyjj_proektОстаткиL",
+  "className": "ОстаткиL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-proekt-остатки",
+      "modelProjection": "ОстаткиL"
+    }
+  ]
+}

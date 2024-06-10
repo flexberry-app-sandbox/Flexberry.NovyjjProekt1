@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Склад",
+  "name": "IISNovyjj_proektСкладE",
+  "className": "СкладE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-proekt-склад",
+      "modelProjection": "СкладE"
+    }
+  ]
+}

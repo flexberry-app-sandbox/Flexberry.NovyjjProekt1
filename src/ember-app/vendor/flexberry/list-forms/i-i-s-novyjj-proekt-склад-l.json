@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-novyjj-proekt-склад-e",
+  "editForm": "i-i-s-novyjj-proekt-склад-e",
+  "external": false,
+  "caption": "Склад",
+  "name": "IISNovyjj_proektСкладL",
+  "className": "СкладL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-proekt-склад",
+      "modelProjection": "СкладL"
+    }
+  ]
+}

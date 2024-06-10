@@ -1,0 +1,31 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Склад",
+      "projection": "СкладL",
+      "detailModelName": null
+    },
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Товар",
+      "projection": "ТоварL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Остатки",
+  "name": "IISNovyjj_proektОстаткиE",
+  "className": "ОстаткиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-novyjj-proekt-остатки",
+      "modelProjection": "ОстаткиE"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Novyjj_proekt",
+  "applicationTitle": "Novyjj_proekt",
+  "items": [
+    {
+      "link": null,
+      "menuName": "novyjj-proekt",
+      "caption": "Novyjj_proekt",
+      "title": "Novyjj_proekt",
+      "children": [
+        {
+          "link": "i-i-s-novyjj-proekt-склад-l",
+          "menuName": null,
+          "caption": "Склад",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-novyjj-proekt-остатки-l",
+          "menuName": null,
+          "caption": "Остатки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-novyjj-proekt-товар-l",
+          "menuName": null,
+          "caption": "Товар",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
