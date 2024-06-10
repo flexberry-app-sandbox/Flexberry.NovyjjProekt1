@@ -12,8 +12,8 @@
     "Frontend": {
       "EmberJs": {
         "EmberApp": true,
-        "EmberAddon": true,
-        "Build": true,
+        "EmberAddon": false,
+        "Build": false,
         "GitClone": false,
         "GitPush": false,
         "GhPagesPush": true,
